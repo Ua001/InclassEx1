@@ -76,6 +76,18 @@ public class CardTrick {
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
+        
+        System.out.println("My name is Urvashi");
+        
+        System.out.println("My Hobbies are:");
+        System.out.println("reading");
+        System.out.println("sleeping");
+        System.out.println("drawing");
+        
+        System.out.println("I usually lile to stay by myself");
+        
+        System.out.println("Am currently enrolled in the second semester of Computer Programming course");
+        
     }
 
 }
