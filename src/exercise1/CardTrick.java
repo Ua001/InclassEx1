@@ -86,7 +86,7 @@ public class CardTrick {
         System.out.println("sleeping");
         System.out.println("drawing");
         
-        System.out.println("I usually lile to stay by myself");
+        System.out.println("I usually like to stay by myself");
         
         System.out.println("Am currently enrolled in the second semester of Computer Programming course");
         
